@@ -18,7 +18,7 @@ The project demonstrates **secure online shopping**, **UPI payment integration**
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, HTML, CSS  
+- **Frontend:** React.js,
 - **Backend:** Python Flask  
 - **Database:** MySQL  
 - **Payment Gateway:** UPI Integration  
@@ -34,14 +34,7 @@ Jewelry-Ecommerce-Website/
 ├── docs/ # Reports & diagrams
 └── README.md # Documentation
 
-
----
-
-## 📸 Screenshots (to be added)
-- Homepage  
-- Product page  
-- Checkout page  
-- Payment page  
+  
 
 ---
 
